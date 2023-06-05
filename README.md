@@ -2,6 +2,7 @@
 
 Many drivers experience unexpected car troubles while on the road, such as flat tires, dead batteries, or engine failures. These incidents can be stressful and dangerous, leaving drivers stranded and in need of immediate assistance. However, finding a reliable and efficient road side assistance service can be difficult and time as drivers may not know where to turn or have to navigate through multiple phone numbers and websites.
 
+
 THE PROJECT
 
  Road rescue is a web based platform for roadside assistance.
@@ -12,6 +13,7 @@ THE PROJECT
 
  Mechanics can sign up and offer their services through this platform.
 
+
 THE HISTORY
 
  With the rise in the number of vehicles on the road, the need for reliable and efficient roadside assistance
@@ -20,6 +22,7 @@ THE HISTORY
 
  Finding a reliable and efficient roadside assistance service can be difficult and time-consuming, as drivers may not know where to turn or have to navigate through multiple phone numbers and websites.
 
+
 LIMITATIONS
 
  It is highly dependent on the service provider. Therefore lack of service provider might create trouble.
@@ -27,6 +30,7 @@ LIMITATIONS
  Technical issues such as compatibility problems or poor website performance.
 
  Poor user experience like difficult to navigate
+
 
 APPROACH
 
@@ -37,6 +41,7 @@ APPROACH
  Determine the resources that are required for the project
 
  Set up a database to store all the data.
+
 
 BENEFITS
 
